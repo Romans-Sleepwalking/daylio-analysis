@@ -1,0 +1,12 @@
+shap
+scikit-learn
+seaborn
+tqdm
+matplotlib
+pandas
+ipywidgets
+widgetsnbextension
+pandas-profiling
+plotly
+jupyter
+nbformat
