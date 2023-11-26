@@ -1,12 +1,13 @@
 shap
 scikit-learn
 seaborn
-tqdm
 matplotlib
 pandas
 ipywidgets
 widgetsnbextension
 pandas-profiling
 plotly
+numpy
 jupyter
 nbformat
+xgboost
